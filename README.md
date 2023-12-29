@@ -6,3 +6,6 @@ Here we have project screenshot :
 
 ![screenshot](sing-in.png)
 ![screenshot](sing-up.png)
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
