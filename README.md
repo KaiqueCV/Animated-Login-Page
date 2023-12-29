@@ -8,4 +8,4 @@ Here we have project screenshot :
 ![screenshot](sing-up.png)
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/KaiqueCV/Animated-Login-Page/blob/7d124c918b62af129bda5915f7ca9acb48b9991d/LICENSE)
